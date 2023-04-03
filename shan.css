@@ -242,7 +242,9 @@ h1{
     }
 
     .tab{
-        margin-left: 10.6rem;
+         justify-content: center;
+         align-items: center;
+         margin-left: 5rem;
     }
 
     .parameter-container{
@@ -252,7 +254,7 @@ h1{
 
    
     .parameter{
-        margin-left: 10rem;
+        margin-left: 6rem;
         max-width: auto;
       
     }
